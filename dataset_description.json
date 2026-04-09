@@ -1,1 +1,13 @@
-{"Name": "EEG pain markers", "BIDSVersion": "1.9.0", "Authors": ["Roy, N.", "Coll, MP", "Coll LAB"], "EthicsApprovals": ["CIUSS-CN 2023-2487"], "License": "CC-BY-4.0"}
+{
+    "Name": "No effect of rhythmic visual stimulation on experimental pain perception\n",
+    "BIDSVersion": "1.9.0",
+    "Authors": [
+        "Roy, N.",
+        "Coll, MP",
+        "Coll LAB"
+    ],
+    "EthicsApprovals": [
+        "CIUSS-CN 2023-2487"
+    ],
+    "License": "CC0"
+}
