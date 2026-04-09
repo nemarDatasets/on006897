@@ -9,5 +9,9 @@
     "EthicsApprovals": [
         "CIUSSS-CN 2024-2922"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "Funding": [
+        "Quebec Pain Research Network (QPRN)",
+        "Fonds de recherche du Québec (FRQ)"
+    ]
 }
