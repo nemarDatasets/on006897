@@ -12,6 +12,6 @@ The analytical code used to process and analyze the data is publicly available a
 
 Roy, N., Deslauriers, C., Côté-Cazes, T., Etcheverry, A., & Coll, M.-P. ([Year]). No effect of rhythmic visual stimulation on experimental pain perception. *[Journal Name]*, *[Volume]*([Issue]), [Page range]. [DOI or URL]
 
-## Notes
+### Notes
 
 Participant numbering in this dataset starts at 12. Participants 1 to 11 were pilot participants who completed earlier iterations of the experimental protocol or experienced significant technical issues, and are therefore not included.
