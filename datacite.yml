@@ -1,1 +1,36 @@
-.git/annex/objects/pj/q1/SHA256E-s899--674b70703bb3327d70d09e2d1a7309493364159335e7ecc5b8c014c020fff7d6.yml/SHA256E-s899--674b70703bb3327d70d09e2d1a7309493364159335e7ecc5b8c014c020fff7d6.yml
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Roy, Nicolas
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Coll, Michel-Pierre
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: ProjectLeader
+        order: 2
+      - name: Pain Learning Lab
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Other
+        order: 3
+    creators:
+      - name: Roy, Nicolas
+        nameType: Personal
+      - name: Coll, Michel-Pierre
+        nameType: Personal
+      - name: Pain Learning Lab
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
