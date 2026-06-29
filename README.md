@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.on006897-blue)](https://doi.org/10.82901/nemar.on006897)
+
 # No effect of rhythmic visual stimulation on experimental pain perception
 
 This dataset contains EEG recordings from 41 participants, collected as part of a study investigating the effect of rhythmic visual stimulation on experimental pain perception. Data were collected at Université Laval, Québec, Canada.
