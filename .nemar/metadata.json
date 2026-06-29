@@ -1,30 +1,35 @@
 {
   "version": "2.0",
-  "dataset_id": "on006897",
-  "source": "openneuro",
-  "source_id": "ds006897",
+  "pipeline_stage": "enriched",
   "title": "No effect of rhythmic visual stimulation on experimental pain perception\n",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Roy, N.": {},
     "Coll, MP": {},
     "Coll LAB": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds006897.v1.0.0",
       "identifier_type": "DOI",
       "relation_type": "IsIdenticalTo"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on006897",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on006897",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds006897",
+      "identifier_type": "DOI",
+      "relation_type": "IsVersionOf"
     }
-  ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.9.0",
-  "recording_modality": [
-    "eeg"
-  ],
-  "datatypes": [
-    "eeg"
   ],
   "funding_references": [
     {
@@ -32,6 +37,61 @@
     },
     {
       "funder_name": "Fonds de recherche du Québec (FRQ)"
+    },
+    {
+      "funder_name": "Fonds de recherche du Québec",
+      "award_title": "Fonds de recherche du Québec – Santé"
+    },
+    {
+      "funder_name": "Quebec Pain Research Network"
+    },
+    {
+      "funder_name": "Fonds de recherche du Québec – Santé (FRQS)"
+    },
+    {
+      "funder_name": "Fonds de recherche du Québec – Santé",
+      "award_title": "FRQS"
     }
-  ]
+  ],
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "0.0 KB (1 files)"
+  ],
+  "formats": [
+    ".eeg",
+    ".json",
+    ".md",
+    ".tsv",
+    ".vhdr",
+    ".vmrk",
+    ".yml"
+  ],
+  "description": "This dataset comprises EEG recordings from 41 participants collected to investigate the effects of rhythmic visual stimulation on experimental pain perception. The study was conducted at Université Laval in Quebec, Canada, and includes data from a controlled experimental protocol designed to examine potential analgesic or modulatory effects of visual rhythmic stimulation on pain responses. The dataset excludes pilot participants and those with technical issues, providing a curated collection for reproducible pain neuroscience research.",
+  "methods_description": "EEG recordings were collected from 41 participants during an experimental protocol investigating the effect of rhythmic visual stimulation on pain perception. Data collection took place at Université Laval, Québec, Canada.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "Pain Perception",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D058748"
+    },
+    {
+      "term": "visual stimulation"
+    },
+    {
+      "term": "rhythmic stimulation"
+    },
+    {
+      "term": "experimental pain"
+    },
+    {
+      "term": "electroencephalography"
+    }
+  ],
+  "source_hash": "41ed5c249579ada53cc9afb0e3a40879bbcf9becd512f947688ea3289a7a19e4"
 }
